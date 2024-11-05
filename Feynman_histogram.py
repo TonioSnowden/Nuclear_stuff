@@ -30,7 +30,6 @@ x = np.linspace(0.5, 8.5, 1000)  # From 0.5 to 8.5 MeV with 1000 points
 probabilities = gaussian_energy_distribution(x)
 probabilities /= np.sum(probabilities)  # Normalize probabilities
 
-# Create the source
 source = openmc.IndependentSource()
 
 total_time = 10000  # seconds
