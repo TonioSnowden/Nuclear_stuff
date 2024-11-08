@@ -28,7 +28,7 @@ with openmc.StatePoint(sp_filename) as sp:
 
     # Extract time and mean values
     time_values = df['time low [s]']
-    mean_values = df['mean'] * 1000
+    mean_values = df['mean'] * 100000
 
     event_times = pd.DataFrame({
     'time': time_values,
@@ -39,7 +39,7 @@ with openmc.StatePoint(sp_filename) as sp:
     total_time = 10
     
     # Process using Feynman histogram
-gate_width = [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768, 65536]
+gate_width = [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768, 65536, 131072, 262144, 524288, 1048576, 2097152, 4194304, 8388608, 16777216]
 y_values = []  # Store Y values for final plot
 
 # Create one big figure with 16 subplots (4x4 grid)
@@ -47,21 +47,32 @@ fig = plt.figure(figsize=(20, 20))
 
 for idx, i in enumerate(gate_width, 1):
     counts = process_feynman_histogram(event_times, gate_width=i)
+    counts = counts.round(2)
     
     # Calculate Feynman statistics
-    mean_counts = np.mean(counts)
-    var_counts = np.var(counts)
-    Y = (var_counts / mean_counts) - 1  # Feynman-Y statistic
+    n = len(counts)
+    mean = sum(counts) / n
+
+    # Calculate variance
+    # Variance is the average of squared differences from the mean
+    squared_diff_sum = sum((x - mean) ** 2 for x in counts)
+    variance = squared_diff_sum / n
+
+    print(n)
+    print(mean)
+    print(variance)
+    Y = (variance / mean) - 1  # Feynman-Y statistic
     y_values.append(Y)
     
+    
     # Create subplot
-    ax = fig.add_subplot(4, 4, idx)
+    ax = fig.add_subplot(6, 4, idx)
     
     # Feynman histogram
     hist, bins, _ = ax.hist(counts, bins=30, density=True, alpha=0.7)
     ax.set_xlabel('Counts outcome')
     ax.set_ylabel('Total counts')
-    ax.set_title(f'Gate width={i}\nY={Y:.3f}\nMean={mean_counts:.2f}\nVar={var_counts:.2f}')
+    ax.set_title(f'Gate width={i}\nY={Y:.3f}\nMean={mean:.2f}\nVar={variance:.2f}')
     ax.grid(True)
 
 plt.tight_layout()
