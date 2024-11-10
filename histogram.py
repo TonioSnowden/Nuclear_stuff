@@ -45,7 +45,9 @@ y_values = []  # Store Y values for final plot
 # Create one big figure with 16 subplots (4x4 grid)
 fig = plt.figure(figsize=(20, 20))
 
-for i in range(20):  # This will give us powers from 2^1 to 2^16
+num_iterations = 16
+
+for i in range(num_iterations):  # This will give us powers from 2^1 to 2^16
     gate_width = 2 ** (i + 1)  # Start from 2^1 instead of 2^0
     counts = process_feynman_histogram(event_times, gate_width=gate_width)
     counts = counts.round(2)
@@ -79,7 +81,7 @@ plt.show()
 
 # Create variance/mean vs gate width plot
 plt.figure(figsize=(10, 6))
-gate_widths = [2 ** (i + 1) for i in range(16)]  # Calculate all gate widths for plotting
+gate_widths = [2 ** (i + 1) for i in range(num_iterations)]  # Calculate all gate widths for plotting
 plt.semilogx(gate_widths, y_values, 'bo-')
 plt.xlabel('Gate width')
 plt.ylabel('Variance/Mean - 1 (Y)')
