@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-pu239_concentration = 0.7
+pu239_concentration = 0.92
 pu240_concentration = 1 - pu239_concentration
 
 # Create Cf-252 material
@@ -83,6 +83,8 @@ def process_feynman_histogram(time_events, pre_delay = 0, gate_width=2):
         
     return counts_per_gate
 
+name = "10sPu239Pu240_095"
+
 # Process results and create graphs
 with openmc.StatePoint(sp_filename) as sp:
     tally_result = sp.get_tally()
@@ -93,7 +95,7 @@ with openmc.StatePoint(sp_filename) as sp:
 
     # Extract time and mean values
     time_values = df['time low [s]']
-    mean_values = df['mean'] * 1000
+    mean_values = df['mean'] * 100000
 
     event_times = pd.DataFrame({
     'time': time_values,
@@ -101,54 +103,60 @@ with openmc.StatePoint(sp_filename) as sp:
     })
 
     print("events created")
+    total_time = 10
     
     # Process using Feynman histogram
-    gate_width = [2, 4, 8 ,16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768, 65536]
-    for i in gate_width:
-        counts = process_feynman_histogram(event_times, gate_width = i)
-        
-        print(counts)
-    
-        print("feynman count")
-        
-        # Calculate Feynman statistics
+# Use range for 16 values (0 to 15) and calculate gate_width as 2^i
+y_values = []  # Store Y values for final plot
+# Create one big figure with 16 subplots (4x4 grid)
+fig = plt.figure(figsize=(20, 20))
 
-        n = len(counts)
-        mean = sum(counts) / n
+num_iterations = 16
+
+for i in range(num_iterations):  # This will give us powers from 2^1 to 2^16
+    gate_width = 2 ** (i + 1)  # Start from 2^1 instead of 2^0
+    counts = process_feynman_histogram(event_times, gate_width=gate_width)
+    counts = counts.round(2)
     
-        # Calculate variance
-        # Variance is the average of squared differences from the mean
-        squared_diff_sum = sum((x - mean) ** 2 for x in counts)
-        variance = squared_diff_sum / n
-        
-        mean_counts = np.mean(counts)
-        var_counts = np.var(counts)
-        Y = (var_counts / mean_counts) - 1  # Feynman-Y statistic
-        
-        # Create figures
-        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 6))
-        
-        # Original time distribution
-        ax1.plot(time_values, mean_values, 'b-', linewidth=0.8)
-        ax1.scatter(time_values, mean_values, color='b', s=10)
-        ax1.set_xlabel('Time (s)')
-        ax1.set_ylabel('Neutron emission')
-        ax1.set_title('Time-correlated Neutron events')
-        ax1.grid(True)
-        
-        # Feynman histogram
-        hist, bins, _ = ax2.hist(counts, bins=30, density=True, alpha=0.7)
-        ax2.set_xlabel('Counts outcome')
-        ax2.set_ylabel('Total counts')
-        ax2.set_title(f'Feynman Histogram (Y={Y:.3f})')
-        ax2.grid(True)
-        
-        plt.tight_layout()
-        plt.savefig(f'{total_time}_feynman_analysis{i}.png', dpi=300)
-        plt.show()
+    # Calculate Feynman statistics
+    n = len(counts)
+    mean = sum(counts) / n
+    # Calculate variance
+    # Variance is the average of squared differences from the mean
+    squared_diff_sum = sum((x - mean) ** 2 for x in counts)
+    variance = squared_diff_sum / n
+    print(n)
+    print(mean)
+    print(variance)
+    Y = (variance / mean) - 1  # Feynman-Y statistic
+    y_values.append(Y)
     
-        # Print statistics
-        print(f"\nFeynman Analysis Results:")
-        print(f"Mean counts per gate: {mean_counts:.2f}")
-        print(f"Variance: {var_counts:.2f}")
-        print(f"Feynman-Y: {Y:.3f}")
+    # Create subplot
+    ax = fig.add_subplot(5, 4, i + 1)
+    
+    # Feynman histogram
+    hist, bins, _ = ax.hist(counts, bins=30, density=True, alpha=0.7)
+    ax.set_xlabel('Counts outcome')
+    ax.set_ylabel('Total counts')
+    ax.set_title(f'Gate width={gate_width}\nY={Y:.3f}\nMean={mean:.2f}\nVar={variance:.2f}')
+    ax.grid(True)
+
+plt.tight_layout()
+plt.savefig(f'{name}{total_time}_all_feynman_histograms.png', dpi=300)
+plt.show()
+
+# Create variance/mean vs gate width plot
+plt.figure(figsize=(10, 6))
+gate_widths = [2 ** (i + 1) for i in range(num_iterations)]  # Calculate all gate widths for plotting
+plt.semilogx(gate_widths, y_values, 'bo-')
+plt.xlabel('Gate width')
+plt.ylabel('Variance/Mean - 1 (Y)')
+plt.title('Feynman-Y vs Gate Width')
+plt.grid(True)
+plt.savefig(f'{name}{total_time}_feynman_Y_vs_gate_width.png', dpi=300)
+plt.show()
+
+# Print final statistics
+print("\nFeynman Analysis Results for all gate widths:")
+for gw, y in zip(gate_widths, y_values):
+    print(f"Gate width: {gw:5d}, Feynman-Y: {y:.3f}")

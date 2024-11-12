@@ -16,8 +16,8 @@ def process_feynman_histogram(time_events, pre_delay = 0, gate_width=2):
         
     return counts_per_gate
 
-sp_filename = "10sCF252_statepoint.100.h5"
-name = "10sCF252"
+sp_filename = "10sPu239Pu240_statepoint.100.h5"
+name = "10sPu239Pu240"
 
 # Process results and create graphs
 with openmc.StatePoint(sp_filename) as sp:
@@ -87,7 +87,7 @@ plt.xlabel('Gate width')
 plt.ylabel('Variance/Mean - 1 (Y)')
 plt.title('Feynman-Y vs Gate Width')
 plt.grid(True)
-plt.savefig(f'{total_time}_feynman_Y_vs_gate_width.png', dpi=300)
+plt.savefig(f'{name}{total_time}_feynman_Y_vs_gate_width.png', dpi=300)
 plt.show()
 
 # Print final statistics
