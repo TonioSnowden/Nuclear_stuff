@@ -60,7 +60,7 @@ time_bins = np.linspace(0, 10, 10000000)
 time_filter = openmc.TimeFilter(time_bins)
 
 tally = openmc.Tally()
-tally.scores = ['nu-fission']
+tally.scores = ['flux']
 tally.filters = [openmc.CellFilter(cell), time_filter]
 
 tallies = openmc.Tallies([tally])

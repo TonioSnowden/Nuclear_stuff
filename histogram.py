@@ -16,8 +16,8 @@ def process_feynman_histogram(time_events, pre_delay = 0, gate_width=2):
         
     return counts_per_gate
 
-sp_filename = "10sPu239Pu240_statepoint.100.h5"
-name = "10sPu239Pu240"
+sp_filename = "10sCF252_statepoint.100.h5"
+name = "10sCF252_upto2power20"
 
 # Process results and create graphs
 with openmc.StatePoint(sp_filename) as sp:
@@ -45,7 +45,7 @@ y_values = []  # Store Y values for final plot
 # Create one big figure with 16 subplots (4x4 grid)
 fig = plt.figure(figsize=(20, 20))
 
-num_iterations = 16
+num_iterations = 20
 
 for i in range(num_iterations):  # This will give us powers from 2^1 to 2^16
     gate_width = 2 ** (i + 1)  # Start from 2^1 instead of 2^0
