@@ -54,7 +54,7 @@ def create_and_run_model(pu239_concentration, total_time=10):
     time_filter = openmc.TimeFilter(time_bins)
     
     tally = openmc.Tally()
-    tally.scores = ['nu-fission']
+    tally.scores = ['flux']
     tally.filters = [openmc.CellFilter(cell), time_filter]
     
     tallies = openmc.Tallies([tally])
