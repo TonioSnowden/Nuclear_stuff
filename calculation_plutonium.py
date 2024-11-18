@@ -91,7 +91,7 @@ def analyze_concentration(pu239_concentration, total_time=10):
         y_values = []
         
         # Create directory for this concentration if it doesn't exist
-        dir_name = f"results_Pu239_{pu239_concentration*100:.0f}percent"
+        dir_name = f"results_bis_Pu239_{pu239_concentration*100:.0f}percent"
         os.makedirs(dir_name, exist_ok=True)
         
         # Feynman histograms
