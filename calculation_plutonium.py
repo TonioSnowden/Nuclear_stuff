@@ -16,7 +16,7 @@ def create_and_run_model(pu239_concentration, total_time=10):
     materials = openmc.Materials([pu_mix])
     
     # Geometry
-    sphere = openmc.Sphere(r=3.0, boundary_type='vacuum')
+    sphere = openmc.Sphere(r=5.0, boundary_type='vacuum')
     cell = openmc.Cell(fill=pu_mix, region=-sphere)
     universe = openmc.Universe(cells=[cell])
     geometry = openmc.Geometry(universe)
