@@ -27,11 +27,13 @@ def create_and_run_model(pu239_concentration, total_time=10):
     
     lambda_239 = np.log(2)/(24110*365.25*24*3600)
     lambda_240 = np.log(2)/(6561*365.25*24*3600)
-    
+
+    #Calculation expected decay during the simulation
     expected_decays_239 = 37000 * np.exp(lambda_239 * 31557600) * total_time * pu239_concentration
     expected_decays_240 = 37000 * np.exp(lambda_240 * 31557600) * total_time * pu240_concentration
     expected_decays = expected_decays_239 + expected_decays_240
-    
+
+    # Creation of the source
     source = openmc.IndependentSource()
     source.time = openmc.stats.Uniform(0, total_time)
     source.angle = openmc.stats.Isotropic()
@@ -65,8 +67,13 @@ def create_and_run_model(pu239_concentration, total_time=10):
     return sp_filename
 
 def process_feynman_histogram(time_events, gate_width=2):
+    # Get value
     mean_data = time_events['mean']
+
+    # Create the different window depending on the gate_width
     windows = np.lib.stride_tricks.sliding_window_view(mean_data[1:], gate_width)
+
+    #Sum everything
     counts_per_gate = np.sum(windows, axis=1)
     return counts_per_gate
 
@@ -80,6 +87,7 @@ def analyze_concentration(pu239_concentration, total_time=10):
         df = tally_result.get_pandas_dataframe()
         
         time_values = df['time low [s]']
+        #Just for better vizualisation (proba are very low)
         mean_values = df['mean'] * 100000
         
         event_times = pd.DataFrame({
