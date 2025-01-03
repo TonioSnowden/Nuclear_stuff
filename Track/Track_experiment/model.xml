@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<model>
+  <materials>
+    <material depletable="true" id="1" name="Pu-Mix">
+      <density units="g/cm3" value="19.8"/>
+      <nuclide ao="0.92" name="Pu239"/>
+      <nuclide ao="0.07999999999999996" name="Pu240"/>
+    </material>
+  </materials>
+  <geometry>
+    <cell id="1" material="1" region="-1" universe="1"/>
+    <surface boundary="vacuum" coeffs="0.0 0.0 0.0 3.0" id="1" type="sphere"/>
+  </geometry>
+  <settings>
+    <run_mode>fixed source</run_mode>
+    <particles>370012</particles>
+    <batches>100</batches>
+    <source particle="neutron" strength="1.0" type="independent">
+      <space type="point">
+        <parameters>0 0 0</parameters>
+      </space>
+      <angle type="isotropic"/>
+      <energy parameters="0 1" type="uniform"/>
+      <time parameters="0 10" type="uniform"/>
+    </source>
+  </settings>
+  </model>
