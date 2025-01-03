@@ -1,5 +1,6 @@
 import openmc
 import numpy as np
+import
 
 # Load the tracks file
 tracks = openmc.Tracks('tracks.h5')
@@ -19,5 +20,3 @@ for track in tracks:
         particle_states = state.states  # time in seconds
         time = particle_states["time"]
         print(f"Particle time: {time} seconds")
-    
-    
