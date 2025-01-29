@@ -82,10 +82,63 @@ def process_dataframe(df):
     """Process dataframe and generate MCNP inputs for each row"""
     high_sf_isotopes = get_high_sf_isotopes()
     mcnp_inputs = []
+
+    Base_string = ("c Uranium Source Neutron Multiplicity Counter Simulation\n"
+                  "c ========== CELL CARDS ==========\n"
+                  "1  1  -19.1    -1      $ Source sphere\n"
+                  "2  2  -0.001225 1 -2   $ Air between source and detector\n"
+                  "3  3  -2.329    2 -3   $ He-3 detector volume\n"
+                  "4  0            3      $ Outside world (void)\n"
+                  "\n"
+                  "c ========== SURFACE CARDS ==========\n"
+                  "1  SPH  0 0 0  1.0    $ Source sphere (1 cm radius)\n"
+                  "2  CYL  0 0 -15 12 30 $ Inner detector cylinder\n"
+                  "3  CYL  0 0 -16 13 32 $ Outer detector cylinder\n"
+                  "\n"
+                  "c ========== DATA CARDS ==========\n"
+                  "MODE N                $ Neutron transport mode\n"
+                  "IMP:N 1 1 1 0         $ Cell importances\n"
+                  "c\n"
+                  "c ===== SOURCE DEFINITION =====\n"
+                  "SDEF  PAR=SF          $ Spontaneous fission source\n"
+                  "      CEL=1           $ Source in cell 1\n"
+                  "      POS=0 0 0       $ Center position\n"
+                  "      RAD=d1          $ Radial distribution\n"
+                  "SI1   0 1             $ Source radius limits\n"
+                  "SP1   -21 1           $ Power law for radial sampling\n"
+                  "c\n"
+                  "c ===== MATERIALS =====\n"
+                  "M1    ")  # Note: mcnp_input (The source composition) will be added here
+    
+    Middle_string = ("\nc\n"
+                    "M2    7014   0.78      $ Air (N)\n"
+                    "      8016   0.22      $ Air (O)\n"
+                    "c\n"
+                    "M3    2003   1.0       $ He-3 detector material\n"
+                    "c\n"
+                    "c ===== PHYSICS AND CUTOFFS =====\n"
+                    "PHYS:N 20 0.0 0 -1 -1 0 1   $ Physics options for neutrons\n"
+                    "CUT:N  2J 0                 $ Time cutoff\n"
+                    "c\n"
+                    "c ===== TALLIES =====\n"
+                    "F8:N   3                    $ Pulse height tally in detector\n"
+                    "FT8    CAP 2003             $ Capture tally in He-3\n"
+                    "E8     0 1E-5 1             $ Energy bins\n"
+                    "c\n"
+                    "c ===== MULTIPLICITY RECORDING =====\n"
+                    "PTRAC  FILE=bin             $ Binary output file\n"
+                    "       WRITE=all            $ Write all events\n"
+                    "       EVENT=ter            $ Record termination events\n"
+                    "       FILTER=900,ICL       $ Filter by cell\n"
+                    "       MAX=1000000          $ Maximum events to record\n"
+                    "c\n"
+                    "NPS    1E6                  $ Number of histories to run\n"
+                    "PRINT                       $ Print full output\n")
     
     for idx, row in df.iterrows():
         mcnp_input = create_mcnp_input(row, high_sf_isotopes)
         if mcnp_input:  # Only append non-empty inputs
-            mcnp_inputs.append(mcnp_input)
+            full_input = Base_string + mcnp_input + Middle_string
+            mcnp_inputs.append(full_input)
     
     return mcnp_inputs
