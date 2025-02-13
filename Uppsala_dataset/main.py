@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 from train import NuclearModelTrainer
 import pandas as pd
+import numpy as np
 
 # Configuration for different models
 configs = {
@@ -50,20 +51,30 @@ def setup_logging(model_type):
 
 def load_data():
     # Load your data here
-    df = pd.read_csv('uppsala_neuralnet.csv')
+    df = pd.read_csv('uppsala_neuralnet.csv', nrows = 1000)
     
     # Define your features and targets
-    input_features = [col for col in df.columns if col.startswith('fuel_')]
-    output_features = [col for col in df.columns if col.startswith('flow_')]
+    input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH",	"fuel_TOT_A"]
+    output_features = [col for col in df.columns if col.startswith('fuel_')]
     
     X = df[input_features]
     y = df[output_features]
+    
+    # Normalize the data
+    X = (X - X.mean()) / X.std()
+    y = (y - y.mean()) / y.std()
+    
+    # Check for any infinite or NaN values
+    if X.isnull().any().any() or y.isnull().any().any():
+        raise ValueError("Dataset contains NaN values")
+    if np.isinf(X.values).any() or np.isinf(y.values).any():
+        raise ValueError("Dataset contains infinite values")
     
     return X, y
 
 def main():
     # Choose model type
-    model_type = 'mlp'  # or 'cnn' or 'pinn'
+    model_type = 'cnn'  # or 'cnn' or 'pinn'
     config = configs[model_type]
     
     # Setup logging directories

@@ -3,8 +3,9 @@ import torch.nn as nn
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 import numpy as np
-from models import MLPModel, CNNModel, PINNModel
-import wandb  # For experiment tracking
+from models.mlp import MLPModel
+from models.cnn import CNNModel
+from models.pinn import PINNModel
 
 class NuclearModelTrainer:
     def __init__(self, config):
@@ -46,20 +47,23 @@ class NuclearModelTrainer:
                 input_dim=input_dim,
                 output_dim=output_dim,
                 hidden_layers=self.config['hidden_layers'],
-                dropout_rate=self.config['dropout_rate']
+                dropout_rate=self.config['dropout_rate'],
+                l2_penalty=self.config['l2_penalty']
             )
         elif self.config['model_type'] == 'cnn':
             model = CNNModel(
                 input_dim=input_dim,
                 output_dim=output_dim,
                 num_channels=self.config['num_channels'],
-                kernel_sizes=self.config['kernel_sizes']
+                kernel_sizes=self.config['kernel_sizes'],
+                dropout_rate=self.config['dropout_rate']
             )
         elif self.config['model_type'] == 'pinn':
             model = PINNModel(
                 input_dim=input_dim,
                 output_dim=output_dim,
-                hidden_layers=self.config['hidden_layers']
+                hidden_layers=self.config['hidden_layers'],
+                dropout_rate=self.config['dropout_rate']
             )
             
         model = model.to(self.device)
@@ -74,6 +78,11 @@ class NuclearModelTrainer:
         # Initialize loss function
         criterion = nn.MSELoss()
         
+        history = {
+            'train_loss': [],
+            'val_loss': []
+        }
+        
         # Training loop
         for epoch in range(self.config['epochs']):
             model.train()
@@ -84,16 +93,34 @@ class NuclearModelTrainer:
                 
                 optimizer.zero_grad()
                 outputs = model(batch_X)
+                
+                # Check for NaN values
+                if torch.isnan(outputs).any():
+                    print(f"NaN detected in outputs at epoch {epoch}")
+                    continue
+                
                 loss = criterion(outputs, batch_y)
+                
+                if torch.isnan(loss):
+                    print(f"NaN detected in loss at epoch {epoch}")
+                    continue
                 
                 if self.config['model_type'] == 'pinn':
                     physics_loss = model.physics_loss(outputs, self.config['decay_constants'])
-                    loss += self.config['physics_weight'] * physics_loss
+                    if not torch.isnan(physics_loss):
+                        loss += self.config['physics_weight'] * physics_loss
                 
                 loss.backward()
+                
+                # Gradient clipping to prevent exploding gradients
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                
                 optimizer.step()
                 
                 train_loss += loss.item()
+            
+            # Calculate average training loss
+            avg_train_loss = train_loss / len(self.train_loader)
             
             # Validation
             model.eval()
@@ -104,11 +131,16 @@ class NuclearModelTrainer:
                     outputs = model(batch_X)
                     val_loss += criterion(outputs, batch_y).item()
             
-            # Log metrics
-            wandb.log({
-                'epoch': epoch,
-                'train_loss': train_loss / len(self.train_loader),
-                'val_loss': val_loss / len(self.val_loader)
-            })
+            # Calculate average validation loss
+            avg_val_loss = val_loss / len(self.val_loader)
             
-        return model 
+            # Store in history
+            history['train_loss'].append(float(avg_train_loss))
+            history['val_loss'].append(float(avg_val_loss))
+            
+            # Print progress every epoch for the small dataset
+            print(f'Epoch [{epoch+1}/{self.config["epochs"]}], '
+                  f'Train Loss: {avg_train_loss:.6f}, '
+                  f'Val Loss: {avg_val_loss:.6f}')
+        
+        return model, history 

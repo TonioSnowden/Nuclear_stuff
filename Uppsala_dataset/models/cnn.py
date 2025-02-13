@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from .base_model import BaseModel
+import numpy as np
 
 class CNNModel(BaseModel):
     def __init__(self, input_dim, output_dim, num_channels=[32, 64, 128], 
@@ -11,15 +12,20 @@ class CNNModel(BaseModel):
             raise ValueError(f"Input dimension must be positive, got {input_dim}")
             
         self.input_reshape = input_dim
-        self.num_channels = num_channels  # Store as instance variable
+        self.num_channels = num_channels
+        
+        # Determine number of pooling layers based on input dimension
+        max_pools = int(np.log2(input_dim)) - 1  # Keep at least 2 features
+        num_channels = num_channels[:max_pools]
+        kernel_sizes = kernel_sizes[:max_pools]
         
         # CNN layers
         cnn_layers = []
-        in_channels = 1  # Start with 1 channel for 1D input
+        in_channels = 1
+        current_dim = input_dim
         
         for out_channels, kernel_size in zip(num_channels, kernel_sizes):
-            # Ensure kernel size is smaller than input dimension
-            kernel_size = min(kernel_size, input_dim)
+            kernel_size = min(kernel_size, current_dim)
             
             cnn_layers.extend([
                 nn.Conv1d(in_channels, out_channels, kernel_size, padding='same'),
@@ -29,32 +35,23 @@ class CNNModel(BaseModel):
                 nn.Dropout(dropout_rate)
             ])
             in_channels = out_channels
+            current_dim = current_dim // 2  # Update dimension after pooling
             
         self.cnn_layers = nn.Sequential(*cnn_layers)
         
         # Calculate the size of flattened output
-        flatten_size = self._get_flatten_size(input_dim, len(num_channels))
+        self.flatten_size = current_dim * num_channels[-1]
         
-        # Ensure flatten_size is positive
-        if flatten_size <= 0:
-            raise ValueError(f"Calculated flatten size must be positive, got {flatten_size}")
-            
-        self.flatten_size = flatten_size
+        if self.flatten_size <= 0:
+            raise ValueError(f"Calculated flatten size must be positive, got {self.flatten_size}")
         
-        # Fully connected layers
+        # Fully connected layers with adjusted input size
         self.fc_layers = nn.Sequential(
             nn.Linear(self.flatten_size, 256),
             nn.ReLU(),
             nn.Dropout(dropout_rate),
             nn.Linear(256, output_dim)
         )
-        
-    def _get_flatten_size(self, input_dim, num_pools):
-        # Calculate size after pooling operations
-        output_size = input_dim // (2 ** num_pools)
-        # Ensure at least 1 feature
-        output_size = max(1, output_size)
-        return output_size * self.num_channels[-1]
         
     def forward(self, x):
         # Add assertion to check input dimensions
@@ -64,6 +61,7 @@ class CNNModel(BaseModel):
         # Reshape input: (batch_size, features) -> (batch_size, 1, features)
         x = x.unsqueeze(1)
         x = self.cnn_layers(x)
-        x = x.view(x.size(0), -1)  # Flatten
+        # Flatten: (batch_size, channels, features) -> (batch_size, channels * features)
+        x = x.view(x.size(0), -1)
         x = self.fc_layers(x)
         return x
