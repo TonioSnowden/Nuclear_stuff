@@ -65,7 +65,7 @@ def load_data():
     X = (X - X.mean()) / X.std()
     
     # For output (density values), use log transformation instead of standardization
-    y = torch.log10(torch.tensor(y.values) + 1e-30)
+    y = torch.log10(torch.tensor(y.values).clip(min=1e-30))    
     
     # Convert back to DataFrame
     y = pd.DataFrame(y.numpy(), columns=output_features)

@@ -50,7 +50,8 @@ class CNNModel(BaseModel):
             nn.Linear(self.flatten_size, 256),
             nn.ReLU(),
             nn.Dropout(dropout_rate),
-            nn.Linear(256, output_dim)
+            nn.Linear(256, output_dim),
+            nn.Softplus()
         )
         
     def forward(self, x):
@@ -72,14 +73,15 @@ class DensityLoss(nn.Module):
         super().__init__()
     
     def forward(self, pred, target):
-        # Since our targets are already in log space, we can directly compute MAE
-        mae_loss = torch.mean(torch.abs(pred - target))
+        # Compute relative error in log space
+        log_ratio = pred - target
+        mae_loss = torch.mean(torch.abs(log_ratio))
         
         # Add a penalty for predictions that are orders of magnitude off
         magnitude_diff = torch.abs(torch.floor(pred) - torch.floor(target))
         magnitude_penalty = torch.mean(magnitude_diff)
         
         # Combine both terms
-        total_loss = mae_loss + 0.5 * magnitude_penalty
+        total_loss = mae_loss + 0.1 * magnitude_penalty  # Reduced weight on magnitude penalty
         
         return total_loss
