@@ -4,9 +4,8 @@ from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 import numpy as np
 from models.mlp import MLPModel
-from models.cnn import CNNModel
+from models.cnn import CNNModel, DensityLoss
 from models.pinn import PINNModel
-from models.losses import DensityLoss
 
 class NuclearModelTrainer:
     def __init__(self, config, model_dir):

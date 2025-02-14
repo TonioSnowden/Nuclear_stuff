@@ -13,6 +13,8 @@ def load_model_and_config(model_path, config_path):
     df = pd.read_csv('uppsala_neuralnet.csv')
     input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH", "fuel_TOT_A"]
     output_features = [col for col in df.columns if col.startswith('fuel_')]
+    output_features = [col for col in output_features if col not in input_features]
+
     
     # Initialize model with same configuration
     model = CNNModel(
