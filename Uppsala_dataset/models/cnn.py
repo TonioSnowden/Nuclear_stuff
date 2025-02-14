@@ -45,12 +45,13 @@ class CNNModel(BaseModel):
         if self.flatten_size <= 0:
             raise ValueError(f"Calculated flatten size must be positive, got {self.flatten_size}")
         
-        # Fully connected layers with adjusted input size
+        # Modified output layer to ensure non-negative outputs
         self.fc_layers = nn.Sequential(
             nn.Linear(self.flatten_size, 256),
             nn.ReLU(),
             nn.Dropout(dropout_rate),
-            nn.Linear(256, output_dim)
+            nn.Linear(256, output_dim),
+            nn.Softplus()  # Added to ensure non-negative outputs
         )
         
     def forward(self, x):
@@ -65,3 +66,22 @@ class CNNModel(BaseModel):
         x = x.view(x.size(0), -1)
         x = self.fc_layers(x)
         return x
+
+# Custom loss function for density prediction
+class DensityLoss(nn.Module):
+    def __init__(self, relative_weight=0.3):
+        super().__init__()
+        self.relative_weight = relative_weight
+        
+    def forward(self, pred, target):
+        # Absolute error component
+        abs_error = torch.mean(torch.abs(pred - target))
+        
+        # Relative error component (avoiding division by zero)
+        epsilon = 1e-10
+        rel_error = torch.mean(torch.abs((pred - target) / (target + epsilon)))
+        
+        # Combined loss
+        total_loss = (1 - self.relative_weight) * abs_error + self.relative_weight * rel_error
+        
+        return total_loss

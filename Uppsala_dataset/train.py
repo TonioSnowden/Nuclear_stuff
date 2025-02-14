@@ -6,12 +6,19 @@ import numpy as np
 from models.mlp import MLPModel
 from models.cnn import CNNModel
 from models.pinn import PINNModel
+from models.losses import DensityLoss
 
 class NuclearModelTrainer:
     def __init__(self, config, model_dir):
         self.config = config
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         self.model_dir = model_dir
+        
+        # Initialize loss function
+        if config.get('loss_function') == 'density':
+            self.criterion = DensityLoss(relative_weight=0.3)
+        else:
+            self.criterion = nn.MSELoss()
         
     def prepare_data(self, X, y):
         # Convert to PyTorch tensors
@@ -76,9 +83,6 @@ class NuclearModelTrainer:
             weight_decay=self.config.get('l2_penalty', 0)
         )
         
-        # Initialize loss function
-        criterion = nn.MSELoss()
-        
         history = {
             'train_loss': [],
             'val_loss': []
@@ -92,10 +96,6 @@ class NuclearModelTrainer:
             patience=5,
             verbose=True
         )
-        
-        early_stopping_patience = 10
-        best_val_loss = float('inf')
-        patience_counter = 0
 
         for epoch in range(self.config['epochs']):
             model.train()
@@ -112,7 +112,7 @@ class NuclearModelTrainer:
                     print(f"NaN detected in outputs at epoch {epoch}")
                     continue
                 
-                loss = criterion(outputs, batch_y)
+                loss = self.criterion(outputs, batch_y)
                 
                 if torch.isnan(loss):
                     print(f"NaN detected in loss at epoch {epoch}")
@@ -142,7 +142,7 @@ class NuclearModelTrainer:
                 for batch_X, batch_y in self.val_loader:
                     batch_X, batch_y = batch_X.to(self.device), batch_y.to(self.device)
                     outputs = model(batch_X)
-                    val_loss += criterion(outputs, batch_y).item()
+                    val_loss += self.criterion(outputs, batch_y).item()
             
             # Calculate average validation loss
             avg_val_loss = val_loss / len(self.val_loader)

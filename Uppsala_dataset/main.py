@@ -74,8 +74,11 @@ def load_data():
 
 def main():
     # Choose model type
-    model_type = 'mlp'  # or 'cnn' or 'pinn'
+    model_type = 'cnn'
     config = configs[model_type]
+    
+    # Add custom loss to config
+    config['loss_function'] = 'density'
     
     # Setup logging directories
     log_dir, model_dir = setup_logging(model_type)
@@ -87,7 +90,7 @@ def main():
     # Load data
     X, y = load_data()
     
-    # Initialize trainer
+    # Initialize trainer with custom loss
     trainer = NuclearModelTrainer(config, model_dir)
     
     # Train model and get training history
