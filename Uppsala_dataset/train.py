@@ -157,17 +157,5 @@ class NuclearModelTrainer:
                   f'Val Loss: {avg_val_loss:.6f}')
         
             scheduler.step(avg_val_loss)
-            
-            if avg_val_loss < best_val_loss:
-                best_val_loss = avg_val_loss
-                patience_counter = 0
-                # Save best model
-                torch.save(model.state_dict(), f'{self.model_dir}/best_model.pt')
-            else:
-                patience_counter += 1
-            
-            if patience_counter >= early_stopping_patience:
-                print(f'Early stopping triggered after {epoch + 1} epochs')
-                break
         
         return model, history 
