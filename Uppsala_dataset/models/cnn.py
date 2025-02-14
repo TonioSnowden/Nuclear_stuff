@@ -50,8 +50,7 @@ class CNNModel(BaseModel):
             nn.Linear(self.flatten_size, 256),
             nn.ReLU(),
             nn.Dropout(dropout_rate),
-            nn.Linear(256, output_dim),
-            nn.Softplus()  # Added to ensure non-negative outputs
+            nn.Linear(256, output_dim)
         )
         
     def forward(self, x):
@@ -69,27 +68,18 @@ class CNNModel(BaseModel):
 
 # Custom loss function for density prediction
 class DensityLoss(nn.Module):
-    def __init__(self, epsilon=1e-30):
+    def __init__(self):
         super().__init__()
-        self.epsilon = epsilon
-        
+    
     def forward(self, pred, target):
-        # Add epsilon to both prediction and target to handle zeros
-        pred = pred + self.epsilon
-        target = target + self.epsilon
-        
-        # Calculate log of values
-        log_pred = torch.log10(pred)
-        log_target = torch.log10(target)
-        
-        # Calculate the mean absolute error in log space
-        log_mae = torch.mean(torch.abs(log_pred - log_target))
+        # Since our targets are already in log space, we can directly compute MAE
+        mae_loss = torch.mean(torch.abs(pred - target))
         
         # Add a penalty for predictions that are orders of magnitude off
-        magnitude_diff = torch.abs(torch.floor(log_pred) - torch.floor(log_target))
+        magnitude_diff = torch.abs(torch.floor(pred) - torch.floor(target))
         magnitude_penalty = torch.mean(magnitude_diff)
         
         # Combine both terms
-        total_loss = log_mae + 0.5 * magnitude_penalty
+        total_loss = mae_loss + 0.5 * magnitude_penalty
         
         return total_loss
