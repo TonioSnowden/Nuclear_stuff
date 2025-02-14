@@ -15,7 +15,7 @@ class NuclearModelTrainer:
         
         # Initialize loss function
         if config.get('loss_function') == 'density':
-            self.criterion = DensityLoss(relative_weight=0.3)
+            self.criterion = DensityLoss()
         else:
             self.criterion = nn.MSELoss()
         
