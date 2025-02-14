@@ -11,11 +11,11 @@ configs = {
     'mlp': {
         'model_type': 'mlp',
         'hidden_layers': [512, 256, 128],
-        'dropout_rate': 0.3,
-        'l2_penalty': 1e-5,
-        'batch_size': 64,
-        'learning_rate': 0.001,
-        'epochs': 100
+        'dropout_rate': 0.2,
+        'l2_penalty': 1e-6,
+        'batch_size': 32,
+        'learning_rate': 0.0005,
+        'epochs': 200
     },
     'cnn': {
         'model_type': 'cnn',
@@ -88,7 +88,7 @@ def main():
     X, y = load_data()
     
     # Initialize trainer
-    trainer = NuclearModelTrainer(config)
+    trainer = NuclearModelTrainer(config, model_dir)
     
     # Train model and get training history
     model, history = trainer.train_model(X, y)

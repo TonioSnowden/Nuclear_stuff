@@ -4,7 +4,7 @@ from .base_model import BaseModel
 
 class MLPModel(BaseModel):
     def __init__(self, input_dim, output_dim, hidden_layers=[256, 256, 256], 
-                 dropout_rate=0.3, l2_penalty=1e-5):
+                 dropout_rate=0.2, l2_penalty=1e-5):
         super().__init__()
         
         layers = []

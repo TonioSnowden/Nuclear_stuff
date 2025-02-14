@@ -8,9 +8,10 @@ from models.cnn import CNNModel
 from models.pinn import PINNModel
 
 class NuclearModelTrainer:
-    def __init__(self, config):
+    def __init__(self, config, model_dir):
         self.config = config
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        self.model_dir = model_dir
         
     def prepare_data(self, X, y):
         # Convert to PyTorch tensors
@@ -83,7 +84,19 @@ class NuclearModelTrainer:
             'val_loss': []
         }
         
-        # Training loop
+        # Initialize learning rate scheduler
+        scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+            optimizer,
+            mode='min',
+            factor=0.5,
+            patience=5,
+            verbose=True
+        )
+        
+        early_stopping_patience = 10
+        best_val_loss = float('inf')
+        patience_counter = 0
+
         for epoch in range(self.config['epochs']):
             model.train()
             train_loss = 0
@@ -113,7 +126,7 @@ class NuclearModelTrainer:
                 loss.backward()
                 
                 # Gradient clipping to prevent exploding gradients
-                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=0.5)
                 
                 optimizer.step()
                 
@@ -142,5 +155,19 @@ class NuclearModelTrainer:
             print(f'Epoch [{epoch+1}/{self.config["epochs"]}], '
                   f'Train Loss: {avg_train_loss:.6f}, '
                   f'Val Loss: {avg_val_loss:.6f}')
+        
+            scheduler.step(avg_val_loss)
+            
+            if avg_val_loss < best_val_loss:
+                best_val_loss = avg_val_loss
+                patience_counter = 0
+                # Save best model
+                torch.save(model.state_dict(), f'{self.model_dir}/best_model.pt')
+            else:
+                patience_counter += 1
+            
+            if patience_counter >= early_stopping_patience:
+                print(f'Early stopping triggered after {epoch + 1} epochs')
+                break
         
         return model, history 
