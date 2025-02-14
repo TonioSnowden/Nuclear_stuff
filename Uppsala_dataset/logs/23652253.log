@@ -1,0 +1,21 @@
+Epoch [1/200], Train Loss: 0.682814, Val Loss: 0.461814
+Epoch [2/200], Train Loss: 0.451666, Val Loss: 0.346537
+Epoch [3/200], Train Loss: 0.398395, Val Loss: 0.291768
+Epoch [4/200], Train Loss: 0.392246, Val Loss: 0.262214
+Epoch [5/200], Train Loss: 0.332256, Val Loss: 0.258337
+Epoch [6/200], Train Loss: 0.330863, Val Loss: 0.263130
+Epoch [7/200], Train Loss: 0.320035, Val Loss: 0.265705
+Epoch [8/200], Train Loss: 0.282826, Val Loss: 0.379497
+Epoch [9/200], Train Loss: 0.301638, Val Loss: 0.188954
+Epoch [10/200], Train Loss: 0.280770, Val Loss: 0.241998
+Epoch [11/200], Train Loss: 0.259171, Val Loss: 0.208305
+Epoch [12/200], Train Loss: 0.231921, Val Loss: 0.269788
+Epoch [13/200], Train Loss: 0.222126, Val Loss: 0.266122
+Epoch [14/200], Train Loss: 0.230456, Val Loss: 0.309789
+Epoch [15/200], Train Loss: 0.219862, Val Loss: 0.244123
+Epoch [16/200], Train Loss: 0.236694, Val Loss: 0.325019
+Epoch [17/200], Train Loss: 0.219995, Val Loss: 0.328817
+Epoch [18/200], Train Loss: 0.197404, Val Loss: 0.229957
+Epoch [19/200], Train Loss: 0.202681, Val Loss: 0.206031
+Early stopping triggered after 19 epochs
+Training completed. Logs and model saved in runs/mlp_20250214_062051

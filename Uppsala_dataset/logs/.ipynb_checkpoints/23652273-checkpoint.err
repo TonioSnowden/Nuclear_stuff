@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 118, in <module>
+    main()
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 99, in main
+    trainer = NuclearModelTrainer(config, model_dir)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/train.py", line 18, in __init__
+    self.criterion = DensityLoss(relative_weight=0.3)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DensityLoss.__init__() got an unexpected keyword argument 'relative_weight'

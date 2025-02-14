@@ -51,13 +51,16 @@ def setup_logging(model_type):
 
 def load_data():
     # Load your data here
-    df = pd.read_csv('uppsala_neuralnet.csv')
+    df = pd.read_csv('uppsala_neuralnet.csv', nrows = 1000)
     
     # Define your features and targets
     input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH",	"fuel_TOT_A"]
     output_features = [col for col in df.columns if col.startswith('fuel_')]
-    #delete input features that are in output_features
     output_features = [col for col in output_features if col not in input_features]
+
+    print("Features size")
+    print(len(input_features))
+    print(len(output_features))
     
     X = df[input_features]
     y = df[output_features]

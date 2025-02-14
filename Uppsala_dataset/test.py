@@ -48,12 +48,12 @@ def predict(model, input_data, input_features):
 def main():
     # Load model and configuration
     model, config, input_features, output_features = load_model_and_config(
-        'runs/cnn_20250214_061034/models/cnn_model.pt',  # Replace with your model path
-        'runs/cnn_20250214_061034/config.json'  # Replace with your config path
+        'runs/cnn_20250214_074009/models/cnn_model.pt',  # Replace with your model path
+        'runs/cnn_20250214_074009/config.json'  # Replace with your config path
     )
     
     # Load some test data
-    df = pd.read_csv('uppsala_neuralnet.csv')
+    df = pd.read_csv('uppsala_neuralnet.csv', nrows=1000)
     test_data = df[input_features].head(5)  # Get first 5 samples as example
     test_output = df[output_features].head(5)
     

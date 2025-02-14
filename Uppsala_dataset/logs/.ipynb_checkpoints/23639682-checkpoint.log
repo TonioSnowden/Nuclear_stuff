@@ -1,0 +1,5 @@
+Epoch [1/100], Train Loss: 0.157037, Val Loss: 13.218750
+Epoch [2/100], Train Loss: 0.136939, Val Loss: 1.095819
+Epoch [3/100], Train Loss: 0.131081, Val Loss: 2.613668
+Epoch [4/100], Train Loss: 0.129369, Val Loss: 82.999575
+Epoch [5/100], Train Loss: 0.129669, Val Loss: 21.545470
