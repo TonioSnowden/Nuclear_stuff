@@ -51,24 +51,26 @@ def setup_logging(model_type):
 
 def load_data():
     # Load your data here
-    df = pd.read_csv('uppsala_neuralnet.csv', nrows = 1000)
+    df = pd.read_csv('top10_nuclear.csv', nrows = 1000)
     
     # Define your features and targets
-    input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH", "fuel_TOT_A"]
-    output_features = [col for col in df.columns if col.startswith('fuel_')]
-    output_features = [col for col in output_features if col not in input_features]
+    input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH",	"fuel_TOT_A"]
+    #output_features = [col for col in df.columns if col.startswith('fuel_')]
+    #output_features = [col for col in output_features if col not in input_features]
+    output_features = [
+    'fuel_U238', 'fuel_U235', 'fuel_Pu239', 'fuel_U236', 'fuel_U234'
+    ]
+
+    print("Features size")
+    print(len(input_features))
+    print(len(output_features))
     
     X = df[input_features]
     y = df[output_features]
     
-    # Normalize input features only
+    # Normalize the data
     X = (X - X.mean()) / X.std()
-    
-    # For output (density values), use log transformation instead of standardization
-    y = torch.log10(torch.tensor(y.values).clip(min=1e-30))    
-    
-    # Convert back to DataFrame
-    y = pd.DataFrame(y.numpy(), columns=output_features)
+    y = (y - y.mean()) / y.std()
     
     # Check for any infinite or NaN values
     if X.isnull().any().any() or y.isnull().any().any():
