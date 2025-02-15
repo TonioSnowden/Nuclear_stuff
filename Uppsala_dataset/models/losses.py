@@ -1,14 +1,19 @@
 import torch
 import torch.nn as nn
 
-class RelativeDensityLoss(nn.Module):
+class PercentageRMSELoss(nn.Module):
     def __init__(self, epsilon=1e-7):
         super().__init__()
-        self.epsilon = epsilon  
+        self.epsilon = epsilon
         
     def forward(self, predictions, targets):
-        relative_diff = torch.abs(predictions - targets) / (targets + self.epsilon)
-        weights = torch.log1p(torch.abs(targets))
-        weighted_loss = relative_diff * weights
+        # Calculate percentage difference
+        percentage_diff = (predictions - targets) / (torch.abs(targets) + self.epsilon)
         
-        return torch.mean(weighted_loss) 
+        # Square the percentage differences (emphasizes large deviations)
+        squared_perc_diff = torch.pow(percentage_diff, 2)
+        
+        # Calculate RMSE
+        rmse = torch.sqrt(torch.mean(squared_perc_diff) + self.epsilon)
+        
+        return rmse 
