@@ -5,7 +5,6 @@ from datetime import datetime
 from train import NuclearModelTrainer
 import pandas as pd
 import numpy as np
-import torch.nn as nn
 
 # Configuration for different models
 configs = {
@@ -41,6 +40,15 @@ configs = {
         'batch_size': 64,
         'learning_rate': 0.001,
         'epochs': 100,
+        'loss_function': 'percentage_rmse'
+    },
+    'nuclear_net': {
+        'model_type': 'nuclear_net',
+        'hidden_dims': [512, 256, 128, 64],
+        'dropout_rate': 0.3,
+        'batch_size': 64,
+        'learning_rate': 0.001,
+        'epochs': 200,
         'loss_function': 'percentage_rmse'
     }
 }
@@ -85,7 +93,7 @@ def load_data():
 
 def main():
     # Choose model type
-    model_type = 'pinn'
+    model_type = 'nuclear_net'
     config = configs[model_type]
     
     # Setup logging directories

@@ -7,6 +7,7 @@ from models.mlp import MLPModel
 from models.cnn import CNNModel
 from models.pinn import PINNModel
 from models.losses import PercentageRMSELoss
+from models.nuclear_net import OptimizedNuclearNet
 
 
 class NuclearModelTrainer:
@@ -73,6 +74,12 @@ class NuclearModelTrainer:
                 output_dim=output_dim,
                 hidden_layers=self.config['hidden_layers'],
                 dropout_rate=self.config['dropout_rate']
+            )
+        elif self.config['model_type'] == 'nuclear_net':
+            model = OptimizedNuclearNet(
+                input_dim=input_dim,
+                output_dim=output_dim,
+                hidden_dims=self.config['hidden_dims']
             )
             
         model = model.to(self.device)
