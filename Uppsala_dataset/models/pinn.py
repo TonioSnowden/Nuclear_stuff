@@ -16,17 +16,44 @@ class PINNModel(BaseModel):
     
     def physics_loss(self, predictions, decay_constants):
         """
-        Implement physics-based constraints
-        decay_constants: dictionary of decay constants for relevant isotopes
+        Implement physics-based constraints for U and Pu isotopes
         """
-        # Example: Pu241 -> Am241 decay constraint
-        pu241_idx = 5  # Adjust index based on your output order
-        am241_idx = 8  # Adjust index based on your output order
+        # Get indices for relevant isotopes
+        u238_idx = 0  # fuel_U238
+        u235_idx = 1  # fuel_U235
+        pu239_idx = 2  # fuel_Pu239
+        u236_idx = 3  # fuel_U236
+        u234_idx = 4  # fuel_U234
         
-        pu241 = predictions[:, pu241_idx]
-        am241 = predictions[:, am241_idx]
+        # Extract predictions for each isotope
+        u238 = predictions[:, u238_idx]
+        u235 = predictions[:, u235_idx]
+        pu239 = predictions[:, pu239_idx]
+        u236 = predictions[:, u236_idx]
+        u234 = predictions[:, u234_idx]
         
-        # Basic decay chain constraint
-        decay_loss = torch.mean((am241 - decay_constants['Pu241_Am241'] * pu241) ** 2)
+        # Physics constraints:
         
-        return decay_loss
+        # 1. Mass conservation (sum of mass fractions should be close to 1)
+        mass_conservation = torch.abs(u238 + u235 + pu239 + u236 + u234 - 1.0)
+        
+        # 2. U238 should be the most abundant isotope
+        abundance_constraint = torch.relu(u235 - u238) + torch.relu(pu239 - u238) + \
+                             torch.relu(u236 - u238) + torch.relu(u234 - u238)
+        
+        # 3. Natural decay chain relationships
+        # U238 -> U234 decay relationship
+        u238_u234_decay = torch.abs(u234 - decay_constants.get('U238_U234', 1e-6) * u238)
+        
+        # U235 -> Pu239 relationship through neutron capture
+        u235_pu239_relation = torch.abs(pu239 - decay_constants.get('U235_Pu239', 1e-4) * u235)
+        
+        # Combine all physics losses
+        total_physics_loss = (
+            0.4 * torch.mean(mass_conservation) +
+            0.3 * torch.mean(abundance_constraint) +
+            0.2 * torch.mean(u238_u234_decay) +
+            0.1 * torch.mean(u235_pu239_relation)
+        )
+        
+        return total_physics_loss

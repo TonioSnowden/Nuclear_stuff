@@ -36,7 +36,8 @@ configs = {
         'dropout_rate': 0.3,
         'physics_weight': 0.1,
         'decay_constants': {
-            'Pu241_Am241': 0.0483  # Example decay constant
+            'U238_U234': 1e-6,  # Approximate decay constant
+            'U235_Pu239': 1e-4,  # Approximate neutron capture rate
         },
         'batch_size': 64,
         'learning_rate': 0.001,
@@ -60,8 +61,6 @@ def load_data():
     
     # Define your features and targets
     input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH",	"fuel_TOT_A"]
-    #output_features = [col for col in df.columns if col.startswith('fuel_')]
-    #output_features = [col for col in output_features if col not in input_features]
     output_features = [
     'fuel_U238', 'fuel_U235', 'fuel_Pu239', 'fuel_U236', 'fuel_U234'
     ]
