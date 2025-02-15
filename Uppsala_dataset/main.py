@@ -6,7 +6,6 @@ from train import NuclearModelTrainer
 import pandas as pd
 import numpy as np
 import torch.nn as nn
-from models.losses import RelativeDensityLoss
 
 # Configuration for different models
 configs = {
