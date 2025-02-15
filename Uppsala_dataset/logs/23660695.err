@@ -1,0 +1,2 @@
+/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/uppsala_env/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

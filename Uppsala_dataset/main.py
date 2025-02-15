@@ -56,7 +56,7 @@ def setup_logging(model_type):
 
 def load_data():
     # Load your data here
-    df = pd.read_csv('top10_nuclear.csv', nrows = 1000)
+    df = pd.read_csv('top10_nuclear.csv')
     
     # Define your features and targets
     input_features = ["AN", "SF", "fuel_TOT_GS", "fuel_TOT_DH",	"fuel_TOT_A"]
@@ -85,7 +85,7 @@ def load_data():
 
 def main():
     # Choose model type
-    model_type = 'cnn'
+    model_type = 'pinn'
     config = configs[model_type]
     
     # Setup logging directories

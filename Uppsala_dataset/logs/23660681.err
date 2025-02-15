@@ -1,0 +1,15 @@
+/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/uppsala_env/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 121, in <module>
+    main()
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 105, in main
+    model, history = trainer.train_model(X, y)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/train.py", line 122, in train_model
+    physics_loss = model.physics_loss(outputs, self.config['decay_constants'])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/models/pinn.py", line 26, in physics_loss
+    pu241 = predictions[:, pu241_idx]
+            ~~~~~~~~~~~^^^^^^^^^^^^^^
+IndexError: index 5 is out of bounds for dimension 1 with size 5

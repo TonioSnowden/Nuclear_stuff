@@ -51,8 +51,8 @@ def predict(model, input_data, input_features):
 def main():
     # Load model and configuration
     model, config, input_features, output_features = load_model_and_config(
-        'runs/cnn_20250215_025531/models/cnn_model.pt',  # Replace with your model path
-        'runs/cnn_20250215_025531/config.json'  # Replace with your config path
+        'runs/cnn_20250215_041256/models/cnn_model.pt',  # Replace with your model path
+        'runs/cnn_20250215_041256/config.json'  # Replace with your config path
     )
     
     # Load some test data

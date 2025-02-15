@@ -1,0 +1,6 @@
+Features size
+5
+5
+Epoch [1/100], Train Loss: -93078.933032, Val Loss: -408368.071482
+Epoch [2/100], Train Loss: -2052561.905690, Val Loss: -4799630.570838
+Epoch [3/100], Train Loss: -11171444.342539, Val Loss: -19324750.070234

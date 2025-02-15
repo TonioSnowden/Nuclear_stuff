@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 5, in <module>
+    from train import NuclearModelTrainer
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/train.py", line 7, in <module>
+    from models.cnn import CNNModel, DensityLoss
+ImportError: cannot import name 'DensityLoss' from 'models.cnn' (/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/models/cnn.py)

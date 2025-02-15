@@ -1,0 +1,17 @@
+Features size
+5
+5
+Epoch [1/100], Train Loss: -88.532276, Val Loss: -386.813760
+Epoch [2/100], Train Loss: -887.846406, Val Loss: -1990.648159
+Epoch [3/100], Train Loss: -2833.318864, Val Loss: -4982.632527
+Epoch [4/100], Train Loss: -5835.973447, Val Loss: -8351.935794
+Epoch [5/100], Train Loss: -10226.248586, Val Loss: -15076.530655
+Epoch [6/100], Train Loss: -16110.431590, Val Loss: -22757.646222
+Epoch [7/100], Train Loss: -23516.836663, Val Loss: -25367.709637
+Epoch [8/100], Train Loss: -32532.851778, Val Loss: -42595.139689
+Epoch [9/100], Train Loss: -43498.618890, Val Loss: -60871.253853
+Epoch [10/100], Train Loss: -56144.246086, Val Loss: -67724.171687
+Epoch [11/100], Train Loss: -70259.118771, Val Loss: -90527.503362
+Epoch [12/100], Train Loss: -85905.974956, Val Loss: -108469.875366
+Epoch [13/100], Train Loss: -103700.135920, Val Loss: -124251.299031
+Epoch [14/100], Train Loss: -123264.171133, Val Loss: -151196.316024

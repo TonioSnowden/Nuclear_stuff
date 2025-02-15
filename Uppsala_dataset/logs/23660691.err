@@ -1,0 +1,12 @@
+/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/uppsala_env/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 122, in <module>
+    main()
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/main.py", line 106, in main
+    model, history = trainer.train_model(X, y)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Uppsala_dataset/train.py", line 101, in train_model
+    criterion = IsotopePercentageLoss(weights=self.isotope_weights)
+                ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'IsotopePercentageLoss' is not defined
