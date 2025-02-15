@@ -18,7 +18,7 @@ configs = {
         'batch_size': 32,
         'learning_rate': 0.0005,
         'epochs': 200,
-        'loss_function': 'relative_density'
+        'loss_function': 'percentage_rmse'
     },
     'cnn': {
         'model_type': 'cnn',
@@ -28,7 +28,7 @@ configs = {
         'batch_size': 64,
         'learning_rate': 0.001,
         'epochs': 100,
-        'loss_function': 'relative_density'
+        'loss_function': 'percentage_rmse'
     },
     'pinn': {
         'model_type': 'pinn',
@@ -42,7 +42,7 @@ configs = {
         'batch_size': 64,
         'learning_rate': 0.001,
         'epochs': 100,
-        'loss_function': 'relative_density'
+        'loss_function': 'percentage_rmse'
     }
 }
 

@@ -4,9 +4,9 @@ from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 import numpy as np
 from models.mlp import MLPModel
-from models.cnn import CNNModel, DensityLoss
+from models.cnn import CNNModel
 from models.pinn import PINNModel
-from models.losses import RelativeDensityLoss
+from models.losses import PercentageRMSELoss
 
 
 class NuclearModelTrainer:
@@ -16,8 +16,8 @@ class NuclearModelTrainer:
         self.model_dir = model_dir
         
         # Initialize loss function
-        if config.get('loss_function') == 'relative_density':
-            self.criterion = RelativeDensityLoss()
+        if config.get('loss_function') == 'percentage_rmse':
+            self.criterion = PercentageRMSELoss()
         else:
             self.criterion = nn.MSELoss()
         
@@ -97,8 +97,6 @@ class NuclearModelTrainer:
             patience=5,
             verbose=True
         )
-
-        criterion = IsotopePercentageLoss(weights=self.isotope_weights)
 
         for epoch in range(self.config['epochs']):
             model.train()
