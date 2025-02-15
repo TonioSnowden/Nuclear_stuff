@@ -66,22 +66,3 @@ class CNNModel(BaseModel):
         x = x.view(x.size(0), -1)
         x = self.fc_layers(x)
         return x
-
-# Custom loss function for density prediction
-class DensityLoss(nn.Module):
-    def __init__(self):
-        super().__init__()
-    
-    def forward(self, pred, target):
-        # Compute relative error in log space
-        log_ratio = pred - target
-        mae_loss = torch.mean(torch.abs(log_ratio))
-        
-        # Add a penalty for predictions that are orders of magnitude off
-        magnitude_diff = torch.abs(torch.floor(pred) - torch.floor(target))
-        magnitude_penalty = torch.mean(magnitude_diff)
-        
-        # Combine both terms
-        total_loss = mae_loss + 0.1 * magnitude_penalty  # Reduced weight on magnitude penalty
-        
-        return total_loss

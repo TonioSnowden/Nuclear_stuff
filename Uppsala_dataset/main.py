@@ -5,6 +5,8 @@ from datetime import datetime
 from train import NuclearModelTrainer
 import pandas as pd
 import numpy as np
+import torch.nn as nn
+from models.losses import RelativeDensityLoss
 
 # Configuration for different models
 configs = {
@@ -15,7 +17,8 @@ configs = {
         'l2_penalty': 1e-6,
         'batch_size': 32,
         'learning_rate': 0.0005,
-        'epochs': 200
+        'epochs': 200,
+        'loss_function': 'relative_density'
     },
     'cnn': {
         'model_type': 'cnn',
@@ -24,7 +27,8 @@ configs = {
         'dropout_rate': 0.3,
         'batch_size': 64,
         'learning_rate': 0.001,
-        'epochs': 100
+        'epochs': 100,
+        'loss_function': 'relative_density'
     },
     'pinn': {
         'model_type': 'pinn',
@@ -36,7 +40,8 @@ configs = {
         },
         'batch_size': 64,
         'learning_rate': 0.001,
-        'epochs': 100
+        'epochs': 100,
+        'loss_function': 'relative_density'
     }
 }
 
@@ -84,9 +89,6 @@ def main():
     # Choose model type
     model_type = 'cnn'
     config = configs[model_type]
-    
-    # Add custom loss to config
-    config['loss_function'] = 'density'
     
     # Setup logging directories
     log_dir, model_dir = setup_logging(model_type)

@@ -6,6 +6,8 @@ import numpy as np
 from models.mlp import MLPModel
 from models.cnn import CNNModel, DensityLoss
 from models.pinn import PINNModel
+from models.losses import RelativeDensityLoss
+
 
 class NuclearModelTrainer:
     def __init__(self, config, model_dir):
@@ -14,8 +16,8 @@ class NuclearModelTrainer:
         self.model_dir = model_dir
         
         # Initialize loss function
-        if config.get('loss_function') == 'density':
-            self.criterion = DensityLoss()
+        if config.get('loss_function') == 'relative_density':
+            self.criterion = RelativeDensityLoss()
         else:
             self.criterion = nn.MSELoss()
         
@@ -95,6 +97,8 @@ class NuclearModelTrainer:
             patience=5,
             verbose=True
         )
+
+        criterion = IsotopePercentageLoss(weights=self.isotope_weights)
 
         for epoch in range(self.config['epochs']):
             model.train()
