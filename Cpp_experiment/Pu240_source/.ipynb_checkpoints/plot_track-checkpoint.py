@@ -28,6 +28,23 @@ for track in tracks:
 print(particle_times)
 print(len(particle_times))
 
+plt.figure(figsize=(10, 6))
+plt.hist(particle_times, bins=50, density=True, alpha=0.7, color='blue')
+plt.xlabel('Time (seconds)')
+plt.ylabel('Frequency')
+plt.title('Distribution of Neutron Event Times')
+
+# Add a KDE curve to smooth the distribution
+if len(particle_times) > 1:  # KDE requires at least 2 points
+    kde = gaussian_kde(particle_times)
+    x_range = np.linspace(min(particle_times), max(particle_times), 200)
+    plt.plot(x_range, kde(x_range), 'r-', lw=2, label='KDE')
+    plt.legend()
+
+plt.grid(True)
+plt.savefig("event_histogram.png", dpi=300, bbox_inches='tight')
+plt.show()
+
 def count_events_in_gates(time_events, gate_width, total_time=10):
     """
     Count events in consecutive time gates of fixed width.

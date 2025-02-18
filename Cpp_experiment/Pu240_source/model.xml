@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <model>
   <materials>
-    <material depletable="true" id="1" name="U-238">
+    <material depletable="true" id="1" name="Pu-240">
       <density units="g/cm3" value="19.1"/>
-      <nuclide ao="1.0" name="U238"/>
+      <nuclide ao="1.0" name="Pu240"/>
     </material>
   </materials>
   <geometry>

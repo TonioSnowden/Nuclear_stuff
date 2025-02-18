@@ -5,21 +5,20 @@
 #include "openmc/particle.h"
 #include "openmc/distribution.h"
 
-class Pu240SpontaneousFissionSource : public openmc::Source {
+class Pu238SpontaneousFissionSource : public openmc::Source {
 private:
-    // Maxwell distribution for Pu-240 with T = 1.346 MeV (same as typical fission spectrum)
+    // Maxwell distribution for Pu-238 (you may need to adjust these parameters)
     openmc::Watt watt_dist{0.794930, 4.689270};
 
-    // Sample number of neutrons using discrete distribution for Pu-240
+    // Sample number of neutrons using discrete distribution for Pu-238
     int sample_num_neutrons(uint64_t* seed) const {
         double xi = openmc::prn(seed);
-        if (xi < 0.0631) return 0;        // 6.31%
-        if (xi < 0.0631 + 0.2319) return 1;   // 23.19%
-        if (xi < 0.0631 + 0.2319 + 0.3333) return 2;   // 33.33%
-        if (xi < 0.0631 + 0.2319 + 0.3333 + 0.2475) return 3;   // 24.75%
-        if (xi < 0.0631 + 0.2319 + 0.3333 + 0.2475 + 0.0996) return 4;   // 9.96%
-        if (xi < 0.0631 + 0.2319 + 0.3333 + 0.2475 + 0.0996 + 0.0180) return 5;   // 1.8%
-        return 6;   // remaining 1%
+        if (xi < 0.0562929) return 0;        // 5.62929%
+        if (xi < 0.0562929 + 0.2106764) return 1;   // 21.06764%
+        if (xi < 0.0562929 + 0.2106764 + 0.3707428) return 2;   // 37.07428%
+        if (xi < 0.0562929 + 0.2106764 + 0.3707428 + 0.2224394) return 3;   // 22.24394%
+        if (xi < 0.0562929 + 0.2106764 + 0.3707428 + 0.2224394 + 0.1046818) return 4;   // 10.46818%
+        return 5;   // 2.61665%
     }
 
 public:
@@ -46,6 +45,6 @@ public:
     }
 };
 
-extern "C" std::unique_ptr<Pu240SpontaneousFissionSource> openmc_create_source(std::string parameters) {
-    return std::make_unique<Pu240SpontaneousFissionSource>();
+extern "C" std::unique_ptr<Pu238SpontaneousFissionSource> openmc_create_source(std::string parameters) {
+    return std::make_unique<Pu238SpontaneousFissionSource>();
 }

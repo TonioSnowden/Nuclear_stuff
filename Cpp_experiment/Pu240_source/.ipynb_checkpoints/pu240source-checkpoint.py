@@ -4,15 +4,15 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Create U-238 material
-u238 = openmc.Material(name='U-238')
-u238.add_nuclide('U238', 1.0)
-u238.set_density('g/cm3', 19.1)  # Density of U-238
+pu240 = openmc.Material(name='Pu-240')
+pu240.add_nuclide('Pu240', 1.0)
+pu240.set_density('g/cm3', 19.1)  # Density of U-238
 
-materials = openmc.Materials([u238])
+materials = openmc.Materials([pu240])
 
 # Create geometry - small sphere for source
 sphere = openmc.Sphere(r=1.0, boundary_type='vacuum')
-cell = openmc.Cell(fill=u238, region=-sphere)
+cell = openmc.Cell(fill=pu240, region=-sphere)
 universe = openmc.Universe(cells=[cell])
 geometry = openmc.Geometry(universe)
 
