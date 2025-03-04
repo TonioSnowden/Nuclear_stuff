@@ -27,16 +27,13 @@ for density in 19.1 19.5 20.0; do
                config.json > tmp.json && mv tmp.json config.json
             
             # Run the OpenMC simulation
-            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py
+            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python pu240source.py
             
             # Run the OpenMC tally command
             apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif openmc -t
             
             # Run the analysis script
-            python Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py
+            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python plot_track.py "$density" "$radius" "$particles"
         done
     done
 done
-
-# After all simulations, create the dataset
-python create_dataset.py

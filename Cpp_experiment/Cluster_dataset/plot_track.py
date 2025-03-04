@@ -1,15 +1,9 @@
 from typing import Any
 import openmc
 import numpy as np
-import matplotlib.pyplot as plt
-from scipy.stats import gaussian_kde
-import json
+import sys
 
 def get_particle_times() -> np.ndarray:
-    # Load parameters from config file
-    with open('config.json') as config_file:
-        config = json.load(config_file)
-
     # Load the tracks file
     tracks = openmc.Tracks('tracks.h5')
 
@@ -26,7 +20,17 @@ def get_particle_times() -> np.ndarray:
 
     return np.array(particle_times)
 
-# Example usage
+def save_results(density, radius, particles, particle_times):
+    with open('particle_times_output.csv', 'a') as f:
+        f.write(f"{density},{radius},{particles},{particle_times}\n")
+
 if __name__ == "__main__":
-    times = get_particle_times()
-    print(times)
+    # Get parameters from command line arguments
+    density = sys.argv[1]
+    radius = sys.argv[2]
+    particles = sys.argv[3]
+
+    particle_times = get_particle_times()
+
+    # Save the results
+    save_results(density, radius, particles, particle_times)
