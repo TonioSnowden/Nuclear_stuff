@@ -17,6 +17,8 @@ module load python/3.11
 
 source uppsala_env/bin/activate
 
+echo "density,radius,particles,particle_times" > particle_times_output.csv
+
 # Run the OpenMC simulation with varying parameters
 for density in 19.1 19.5 20.0; do
     for radius in 0.5 1.0 1.5; do
