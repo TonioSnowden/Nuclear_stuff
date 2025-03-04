@@ -13,10 +13,6 @@ def get_particle_times() -> np.ndarray:
     # Load the tracks file
     tracks = openmc.Tracks('tracks.h5')
 
-    ax = tracks.plot()
-    fig = ax.figure  # Get the figure from the axes
-    fig.savefig("tracks.png", dpi='figure', bbox_inches='tight', pad_inches=0.1)
-
     particle_times: list[Any] = []
 
     # Print track data
