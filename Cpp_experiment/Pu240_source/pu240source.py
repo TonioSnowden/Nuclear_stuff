@@ -3,10 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Create U-238 material
 pu240 = openmc.Material(name='Pu-240')
 pu240.add_nuclide('Pu240', 1.0)
-pu240.set_density('g/cm3', 19.1)  # Density of U-238
+pu240.set_density('g/cm3', 19.1)  
 
 materials = openmc.Materials([pu240])
 
