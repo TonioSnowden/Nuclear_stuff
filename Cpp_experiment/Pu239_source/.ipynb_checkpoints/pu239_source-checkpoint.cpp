@@ -8,7 +8,7 @@
 class Pu239SpontaneousFissionSource : public openmc::Source {
 private:
     // Maxwell distribution for Pu-239 (parameters would need to be adjusted)
-    openmc::Watt watt_dist{0.794930, 4.689270}; // Note: Keep these parameters as they are if no specific values are given
+    openmc::Watt watt_dist{0.885247, 3.802690}; // Note: Keep these parameters as they are if no specific values are given
 
     // Sample number of neutrons using discrete distribution for Pu-239
     int sample_num_neutrons(uint64_t* seed) const {
