@@ -1,5 +1,5 @@
 {
-    "density": 19.1,
-    "radius": 0.5,
-    "particles": 10
+  "density": 20,
+  "radius": 1.5,
+  "particles": 1000
 }

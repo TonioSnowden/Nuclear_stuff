@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<model>
+  <materials>
+    <material depletable="true" id="1" name="Pu-240">
+      <density units="g/cm3" value="20"/>
+      <nuclide ao="1.0" name="Pu240"/>
+    </material>
+  </materials>
+  <geometry>
+    <cell id="1" material="1" region="-1" universe="1"/>
+    <surface boundary="vacuum" coeffs="0.0 0.0 0.0 1.5" id="1" type="sphere"/>
+  </geometry>
+  <settings>
+    <run_mode>fixed source</run_mode>
+    <particles>1000</particles>
+    <batches>100</batches>
+    <source library="/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/build/libpu240_source.so" strength="1.0" type="compiled"/>
+  </settings>
+  </model>
