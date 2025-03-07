@@ -2,15 +2,19 @@ import openmc
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import json
+
+with open('config.json') as config_file:
+    config = json.load(config_file) 
 
 pu240 = openmc.Material(name='Pu-240')
 pu240.add_nuclide('Pu240', 1.0)
-pu240.set_density('g/cm3', 19.1)  
+pu240.set_density('g/cm3', config['fuel_density'])  
 
 air = openmc.Material(name='Air')
 air.add_element('N', 0.784)
 air.add_element('O', 0.216)
-air.set_density('g/cm3', 0.001225)
+air.set_density('g/cm3', config['coolant_density'])
 
 # Create a box filled with HDPE
 x_min, x_max = -10, 10
@@ -24,7 +28,7 @@ top = openmc.YPlane(y_max, boundary_type='vacuum')
 front = openmc.ZPlane(z_min, boundary_type='vacuum')
 back = openmc.ZPlane(z_max, boundary_type='vacuum')
 
-sphere = openmc.Sphere(r=1.0)
+sphere = openmc.Sphere(r=config['radius'])
 box_region = +left & -right & +bottom & -top & +front & -back
 
 # Define the HDPE cell to be the box MINUS the sphere
@@ -42,7 +46,7 @@ source_lib = "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240
 settings = openmc.Settings()
 settings.run_mode = 'fixed source'
 settings.batches = 100
-settings.particles = 10  # Adjust based on your needs
+settings.particles = 100  # Adjust based on your needs
 settings.source = openmc.CompiledSource(source_lib)
 
 print("Running simulation...")
