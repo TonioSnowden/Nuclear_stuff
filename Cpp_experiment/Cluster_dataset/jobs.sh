@@ -17,25 +17,65 @@ module load python/3.11
 
 python test_print.py
 
-echo "density,radius,particles,particle_times" > particle_times_output.csv
+echo "source_file,density,air_density,radius,particles,particle_times" > particle_times_output.csv
 
-# Run the OpenMC simulation with varying parameters
-for density in 19.1 19.5 20.0; do
-    for radius in 0.5 1.0 1.5; do
-        for particles in 10 100 1000; do
-            # Update the parameters in the config.json file
-            jq --arg density "$density" --arg radius "$radius" --arg particles "$particles" \
-               '.density = ($density | tonumber) | .radius = ($radius | tonumber) | .particles = ($particles | tonumber)' \
-               config.json > tmp.json && mv tmp.json config.json
+# Define base constants
+ISOTOPES_DENSITY=19.5  # Base density value for isotopes
+AIR_DENSITY=0.001      # Base density value for air
+SPHERE_RADIUS=1.0      # Base sphere radius value
+
+# First run all combinations with pu240source.py
+echo "Running simulations with pu240source.py..."
+for density_offset in $(seq -0.5 0.1 0.1); do
+    density=$(echo "$ISOTOPES_DENSITY + $density_offset" | bc -l)
+    for air_density_offset in $(seq -0.5 0.1 0.1); do
+        air_density=$(echo "$AIR_DENSITY + $air_density_offset" | bc -l)
+        for radius in $(seq 0.5 0.5 5.0); do
+            for particles in 10 100 250 500 1000; do
+                echo "Running simulation with pu240source.py: density=$density, air_density=$air_density, radius=$radius, particles=$particles"
             
-            # Run the OpenMC simulation
-            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python pu240source.py
+                # Update the parameters in the config.json file
+                jq --arg density "$density" --arg air_density "$air_density" --arg radius "$radius" --arg particles "$particles" \
+                '.density = ($density | tonumber) | .air_density = ($air_density | tonumber) | .radius = ($radius | tonumber) | .particles = ($particles | tonumber)' \
+                config.json > tmp.json && mv tmp.json config.json
+                
+                # Run the OpenMC simulation
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python pu240source.py
+                
+                # Run the OpenMC tally command
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif openmc -t
+                
+                # Run the analysis script
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python plot_track.py "pu240source.py" "$density" "$air_density" "$radius" "$particles"
+            done
+        done
+    done
+done
+
+# Now run all combinations with pu240sourceair.py
+echo "Running simulations with pu240sourceair.py..."
+for density_offset in $(seq -0.5 0.1 0.1); do
+    density=$(echo "$ISOTOPES_DENSITY + $density_offset" | bc -l)
+    for air_density_offset in $(seq -0.5 0.1 0.1); do
+        air_density=$(echo "$AIR_DENSITY + $air_density_offset" | bc -l)
+        for radius in $(seq 0.5 0.5 5.0); do
+            for particles in 10 100 250 500 1000; do
+                echo "Running simulation with pu240sourceair.py: density=$density, air_density=$air_density, radius=$radius, particles=$particles"
             
-            # Run the OpenMC tally command
-            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif openmc -t
-            
-            # Run the analysis script
-            apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python plot_track.py "$density" "$radius" "$particles"
+                # Update the parameters in the config.json file
+                jq --arg density "$density" --arg air_density "$air_density" --arg radius "$radius" --arg particles "$particles" \
+                '.density = ($density | tonumber) | .air_density = ($air_density | tonumber) | .radius = ($radius | tonumber) | .particles = ($particles | tonumber)' \
+                config.json > tmp.json && mv tmp.json config.json
+                
+                # Run the OpenMC simulation
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python pu240sourceair.py
+                
+                # Run the OpenMC tally command
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif openmc -t
+                
+                # Run the analysis script
+                apptainer exec --bind /global/scratch/users/toniooppi/nuclear_data:/nuclear_data /global/scratch/users/toniooppi/openmc_latest.sif python plot_track.py "pu240sourceair.py" "$density" "$air_density" "$radius" "$particles"
+            done
         done
     done
 done
