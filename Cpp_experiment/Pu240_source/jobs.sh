@@ -15,8 +15,6 @@
 
 module load python/3.11
 
-python test_print.py
-
 echo "source_file,density,air_density,radius,particles,particle_times" > particle_times_output.csv
 
 # Define base constants
