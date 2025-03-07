@@ -26,7 +26,7 @@ SPHERE_RADIUS=1.0      # Base sphere radius value
 # First run all combinations with pu240source.py
 echo "Running simulations with pu240source.py..."
 for density_offset in $(seq -0.5 0.1 0.1); do
-    density=$(echo "$ISOTOPES_DENSITY + $density_offset" | bc -l)
+    fuel_density=$(echo "$ISOTOPES_DENSITY + $density_offset" | bc -l)
     for hdpe_density_offset in $(seq -0.5 0.1 0.1); do
         hdpe_density=$(echo "$HDPE_DENSITY + $hdpe_density_offset" | bc -l)
         for radius in $(seq 0.5 0.5 5.0); do
