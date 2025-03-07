@@ -2,6 +2,7 @@ import openmc
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import json
 
 with open('config.json') as config_file:
     config = json.load(config_file) 

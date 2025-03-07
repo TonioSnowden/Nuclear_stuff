@@ -32,7 +32,7 @@ for density_offset in $(seq -0.5 0.1 0.1); do
         hdpe_density=$(echo "$HDPE_DENSITY + $hdpe_density_offset" | bc -l)
         for radius in $(seq 0.5 0.5 5.0); do
             # Update the parameters in the config.json file
-            jq --arg fuel_density "$density" --arg coolant_density "$hdpe_density" --arg radius "$radius" \
+            jq --arg fuel_density "$fuel_density" --arg coolant_density "$hdpe_density" --arg radius "$radius" \
             '.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)' \
             config.json > tmp.json && mv tmp.json config.json
             
