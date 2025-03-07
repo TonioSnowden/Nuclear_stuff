@@ -20,19 +20,19 @@ def get_particle_times() -> np.ndarray:
 
     return np.array(particle_times)
 
-def save_results(source_file, density, air_density, radius, particles, particle_times):
+def save_results(source_file, fuel_density, coolant_density, radius, number_of_particles, particle_times):
     with open('particle_times_output.csv', 'a') as f:
-        f.write(f"{source_file},{density},{air_density},{radius},{particles},{particle_times}\n")
+        f.write(f"{source_file},{fuel_density},{coolant_density},{radius},{number_of_particles},{particle_times}\n")
 
 if __name__ == "__main__":
     # Get parameters from command line arguments
     source_file = sys.argv[1]
-    density = sys.argv[2]
-    air_density = sys.argv[3]
+    fuel_density = sys.argv[2]
+    coolant_density = sys.argv[3]
     radius = sys.argv[4]
-    particles = sys.argv[5]
+    number_of_particles = sys.argv[5]
 
     particle_times = get_particle_times()
 
     # Save the results
-    save_results(source_file, density, air_density, radius, particles, particle_times)
+    save_results(source_file, fuel_density, coolant_density, radius, number_of_particles, particle_times)
