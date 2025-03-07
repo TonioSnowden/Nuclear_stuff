@@ -12,8 +12,6 @@ air.add_element('N', 0.784)
 air.add_element('O', 0.216)
 air.set_density('g/cm3', 0.001225)
 
-materials = openmc.Materials([pu240])
-
 # Create a box filled with HDPE
 x_min, x_max = -10, 10
 y_min, y_max = -10, 10
@@ -44,5 +42,5 @@ settings.particles = 10  # Adjust based on your needs
 settings.source = openmc.CompiledSource(source_lib)
 
 print("Running simulation...")
-model = openmc.model.Model(geometry, materials, settings)
+model = openmc.model.Model(geometry, settings)
 sp_filename = model.run()
