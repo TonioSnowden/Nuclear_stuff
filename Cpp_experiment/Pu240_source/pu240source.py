@@ -42,5 +42,5 @@ settings.particles = 10  # Adjust based on your needs
 settings.source = openmc.CompiledSource(source_lib)
 
 print("Running simulation...")
-model = openmc.model.Model(geometry, settings)
+model = openmc.model.Model(geometry=geometry, settings=settings)
 sp_filename = model.run()
