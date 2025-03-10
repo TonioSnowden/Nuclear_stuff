@@ -7,6 +7,9 @@ import json
 with open('config.json') as config_file:
     config = json.load(config_file) 
 
+print(config['fuel_density'])
+print(type(config['fuel_density']))
+
 pu240 = openmc.Material(name='Pu-240')
 pu240.add_nuclide('Pu240', 1.0)
 pu240.set_density('g/cm3', config['fuel_density'])  

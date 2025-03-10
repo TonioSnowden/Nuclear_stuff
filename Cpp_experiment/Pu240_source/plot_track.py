@@ -2,6 +2,7 @@ from typing import Any
 import openmc
 import numpy as np
 import sys
+import pandas as pd
 
 def main():
     source_file = sys.argv[1]
@@ -14,29 +15,22 @@ def main():
     particle_times = []
 
     for track in tracks:
-    neutron_track = track.filter(particle='neutron')
-    states = neutron_track.particle_tracks
-    for state in states:
-        particle_states = state.states  # time in seconds
-        time = particle_states["time"]
-        particle_times = np.append(particle_times, time)
+        neutron_track = track.filter(particle='neutron')
+        states = neutron_track.particle_tracks
+        for state in states:
+            particle_states = state.states  # time in seconds
+            time = particle_states["time"]
+            time = np.delete(time, np.where(time == 0))
+            particle_times = np.append(particle_times, time)
 
-    particle_times = np.round(np.array(particle_times), decimals=4)
-
-    particle_times_str = np.array2string(
-        particle_times,
-        separator=',',
-        threshold=np.inf,
-        precision=4,
-        suppress_small=True
-    ).replace('\n', '')
+    print(particle_times)
 
     new_data = pd.DataFrame({
         'source_file': [source_file],
-        'fuel_density': [round(fuel_density, 4)],
-        'coolant_density': [round(coolant_density, 4)],
-        'radius': [round(radius, 4)],
-        'particle_times': [particle_times_str]
+        'fuel_density': fuel_density,
+        'coolant_density': coolant_density,
+        'radius': radius,
+        'particle_times': [particle_times]
     })
     
     # If file exists, append to it; if not, create new file
@@ -47,6 +41,7 @@ def main():
         df = new_data
     
     # Write to CSV without index
+    print(df)
     df.to_csv('particle_times_output.csv', index=False)     
 
 if __name__ == '__main__':
