@@ -12,6 +12,10 @@ def main():
 
     tracks = openmc.Tracks('tracks.h5')
 
+    ax = tracks.plot()
+    fig = ax.figure  # Get the figure from the axes
+    fig.savefig("tracks.png", dpi='figure', bbox_inches='tight', pad_inches=0.1)
+
     particle_times = []
 
     for track in tracks:
