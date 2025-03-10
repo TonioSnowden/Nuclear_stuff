@@ -20,12 +20,12 @@ def get_particle_times() -> np.ndarray:
 
     return np.array(particle_times)
 
-def save_results(source_file, density, air_density, radius, particle_times):
+def save_results(source_file, density, coolant_density, radius, particle_times):
     # Filter out zero values from particle_times
     non_zero_times = particle_times[particle_times != 0]
     
     with open('particle_times_output.csv', 'a') as f:
-        f.write(f"{source_file},{density},{air_density},{radius},{non_zero_times}\n")
+        f.write(f"{source_file},{density},{coolant_density},{radius},{non_zero_times}\n")
 
 if __name__ == "__main__":
     # Get parameters from command line arguments
