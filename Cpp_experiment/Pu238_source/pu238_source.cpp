@@ -8,7 +8,7 @@
 class Pu238SpontaneousFissionSource : public openmc::Source {
 private:
     // Maxwell distribution for Pu-238 (you may need to adjust these parameters)
-    openmc::Watt watt_dist{0.794930, 4.689270};
+    openmc::Maxwell maxwell_dist{3.66};
 
     // Sample number of neutrons using discrete distribution for Pu-238
     int sample_num_neutrons(uint64_t* seed) const {
@@ -36,7 +36,7 @@ public:
         particle.u = openmc::Isotropic().sample(seed);
         
         // Sample energy from Maxwell distribution
-        particle.E = watt_dist.sample(seed);
+        particle.E = maxwell_dist.sample(seed);
         
         // Sample number of neutrons
         particle.delayed_group = sample_num_neutrons(seed);
