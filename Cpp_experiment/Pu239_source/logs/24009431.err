@@ -1,0 +1,610 @@
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 7, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+jq: error: Could not open file config.json: No such file or directory
+slurmstepd: error: *** JOB 24009431 ON n0122.savio4 CANCELLED AT 2025-03-10T17:25:48 ***

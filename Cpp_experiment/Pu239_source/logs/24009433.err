@@ -1,0 +1,1598 @@
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 57, in <module>
+    sp_filename = model.run()
+                  ^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/model/model.py", line 704, in run
+    openmc.run(particles, threads, geometry_debug, restart_file,
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/executor.py", line 314, in run
+    _run(args, output, cwd)
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/executor.py", line 125, in _run
+    raise RuntimeError(error_msg)
+RuntimeError: The secondary particle bank appears to be growing without bound. You are likely running a subcritical multiplication problem with k-effective close to or greater than one. Abort(-1) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, -1) - process 0 ERROR: The secondary particle bank appears to be growing without bound. You are likely running a subcritical multiplication problem with k-effective close to or greater than one. Abort(-1) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, -1) - process 0 pure virtual method called pure virtual method called terminate called recursively [n0122:145547:0:145551] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xac41f1c9cd4c8) terminate called without an active exception
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu239_source/pu239source.py", line 57, in <module>
+    sp_filename = model.run()
+                  ^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/model/model.py", line 704, in run
+    openmc.run(particles, threads, geometry_debug, restart_file,
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/executor.py", line 314, in run
+    _run(args, output, cwd)
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/executor.py", line 125, in _run
+    raise RuntimeError(error_msg)
+RuntimeError: The secondary particle bank appears to be growing without bound. You are likely running a subcritical multiplication problem with k-effective close to or greater than one. Abort(-1) on node 0 (rank 0 in comm 0): application called MPI_Abort(MPI_COMM_WORLD, -1) - process 0 pure virtual method called [1741655865.061874] [n0122:148213:0] debug.c:1292 UCX WARN ucs_debug_disable_signal: signal 8 was not set in ucs [1741655865.061890] [n0122:148213:0] debug.c:1292 UCX WARN ucs_debug_disable_signal: signal 1 was not set in ucs [n0122:148213:0:148215] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x55a389508) [1741655865.061895] [n0122:148213:1] spinlock.c:29 UCX WARN ucs_recursive_spinlock_destroy() failed: busy [n0122:148213:1:148216] Caught signal 11 (Segmentation fault: address not mapped to object at address 0x55a389508) terminate called without an active exception
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")

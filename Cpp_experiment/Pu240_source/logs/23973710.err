@@ -1,0 +1,179 @@
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 37, in <module>
+    particle_times = get_particle_times()
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 8, in get_particle_times
+    tracks = openmc.Tracks('tracks.h5')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/tracks.py", line 216, in __init__
+    with h5py.File(filepath, 'r') as fh:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 562, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, fcpl, swmr=swmr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 235, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 102, in h5py.h5f.open
+OSError: Unable to synchronously open file (file signature not found)
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 37, in <module>
+    particle_times = get_particle_times()
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 8, in get_particle_times
+    tracks = openmc.Tracks('tracks.h5')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/tracks.py", line 216, in __init__
+    with h5py.File(filepath, 'r') as fh:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 562, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, fcpl, swmr=swmr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 235, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 102, in h5py.h5f.open
+OSError: Unable to synchronously open file (file signature not found)
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 37, in <module>
+    particle_times = get_particle_times()
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 8, in get_particle_times
+    tracks = openmc.Tracks('tracks.h5')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/openmc/tracks.py", line 216, in __init__
+    with h5py.File(filepath, 'r') as fh:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 562, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, fcpl, swmr=swmr)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/openmc_venv/lib/python3.11/site-packages/h5py/_hl/files.py", line 235, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 102, in h5py.h5f.open
+OSError: Unable to synchronously open file (file signature not found)
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 6, in <module>
+    with open('config.json') as config_file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+slurmstepd: error: *** JOB 23973710 ON n0141.savio4 CANCELLED AT 2025-03-06T21:17:34 ***

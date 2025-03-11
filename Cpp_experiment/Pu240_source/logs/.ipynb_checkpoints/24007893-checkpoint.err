@@ -1,0 +1,8 @@
+/var/spool/slurmd/job24007893/slurm_script: line 20: fuel_density: command not found
+/var/spool/slurmd/job24007893/slurm_script: line 21: coolant_density: command not found
+/var/spool/slurmd/job24007893/slurm_script: line 22: radius: command not found
+jq: error (at config.json:5): Expected JSON value (while parsing '')
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")

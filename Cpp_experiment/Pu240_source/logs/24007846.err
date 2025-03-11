@@ -1,0 +1,15 @@
+/var/spool/slurmd/job24007846/slurm_script: line 20: fuel_density: command not found
+/var/spool/slurmd/job24007846/slurm_script: line 21: coolant_density: command not found
+/var/spool/slurmd/job24007846/slurm_script: line 22: radius: command not found
+jq: error (at config.json:5): Expected JSON value (while parsing '')
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 57, in <module>
+    main()
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 23, in main
+    if time != 0:
+       ^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()

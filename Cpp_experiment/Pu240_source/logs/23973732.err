@@ -1,0 +1,769 @@
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+Traceback (most recent call last):
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 7, in <module>
+    config = json.load(config_file) 
+             ^^^^
+NameError: name 'json' is not defined
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+slurmstepd: error: *** JOB 23973732 ON n0120.savio4 CANCELLED AT 2025-03-06T21:31:44 ***

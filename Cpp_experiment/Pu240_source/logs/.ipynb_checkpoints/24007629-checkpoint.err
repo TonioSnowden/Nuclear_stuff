@@ -1,0 +1,12 @@
+/var/spool/slurmd/job24007629/slurm_script: line 20: fuel_density: command not found
+/var/spool/slurmd/job24007629/slurm_script: line 21: coolant_density: command not found
+/var/spool/slurmd/job24007629/slurm_script: line 22: radius: command not found
+jq: error (at config.json:5): Expected JSON value (while parsing '')
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/pu240source.py", line 11
+    print(type(config['fuel_density'])
+         ^
+SyntaxError: '(' was never closed
+  File "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/Pu240_source/plot_track.py", line 39
+    'radius': radius, 4,
+                      ^
+SyntaxError: ':' expected after dictionary key

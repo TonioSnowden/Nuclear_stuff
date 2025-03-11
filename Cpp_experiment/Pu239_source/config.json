@@ -1,6 +1,5 @@
 {
-    "fuel_density": 19.8,
-    "coolant_density": 1.05,
-    "radius": 5
-  }
-  
+  "fuel_density": 19.9,
+  "coolant_density": 0.85,
+  "radius": 0.5
+}

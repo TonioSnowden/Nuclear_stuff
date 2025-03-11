@@ -1,0 +1,35 @@
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+jq: error: $hdpe_density is not defined at <top-level>, line 1:
+.fuel_density = ($fuel_density | tonumber) | .coolant_density = ($hdpe_density | tonumber) | .radius = ($radius | tonumber)                                                                 
+jq: 1 compile error
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
+/openmc_venv/lib/python3.11/site-packages/openmc/config.py:62: UserWarning: '/global/home/users/toniooppi/nuclear_data/chain-endf-b8.0.xml' does not exist.
+  warnings.warn(f"'{value}' does not exist.")
