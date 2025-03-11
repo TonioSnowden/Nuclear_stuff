@@ -7,17 +7,14 @@ import json
 with open('config.json') as config_file:
     config = json.load(config_file) 
 
-print(config['fuel_density'])
-print(type(config['fuel_density']))
-
 u238 = openmc.Material(name='U-238')
 u238.add_nuclide('U238', 1.0)
 u238.set_density('g/cm3', config['fuel_density'])  
 
-hdpe = openmc.Material(name='HDPE')
-hdpe.add_element('H', 2, percent_type='ao')
-hdpe.add_element('C', 1, percent_type='ao')
-hdpe.set_density('g/cm3', config['coolant_density'])
+air = openmc.Material(name='Air')
+air.add_element('N', 0.784)
+air.add_element('O', 0.216)
+air.set_density('g/cm3', config['coolant_density'])
 
 # Create a box filled with HDPE
 x_min, x_max = -10, 10
@@ -35,12 +32,12 @@ sphere = openmc.Sphere(r=config['radius'])
 box_region = +left & -right & +bottom & -top & +front & -back
 
 # Define the HDPE cell to be the box MINUS the sphere
-hdpe_cell = openmc.Cell(fill=hdpe, region=box_region & ~(-sphere))
+air_cell = openmc.Cell(fill=air, region=box_region & ~(-sphere))
 
 # Define the Pu-240 cell to be inside the sphere
 u238_cell = openmc.Cell(fill=u238, region=-sphere)
 
-universe = openmc.Universe(cells=[hdpe_cell, u238_cell])
+universe = openmc.Universe(cells=[air_cell, u238_cell])
 geometry = openmc.Geometry(universe)
 
 source_lib = "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/U238_source/build/libu238_source.so"
