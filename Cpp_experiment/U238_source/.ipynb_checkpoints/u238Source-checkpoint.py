@@ -22,7 +22,7 @@ source_lib = "/global/scratch/users/toniooppi/Nuclear_stuff/Cpp_experiment/build
 settings = openmc.Settings()
 settings.run_mode = 'fixed source'
 settings.batches = 100
-settings.particles = 1000  # Adjust based on your needs
+settings.particles = 100  # Adjust based on your needs
 settings.source = openmc.CompiledSource(source_lib)
 
 print("Running simulation...")

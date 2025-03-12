@@ -19,7 +19,7 @@ air.set_density('g/cm3', 0.001225)
 # Create a box filled with HDPE
 x_min, x_max = -10, 10
 y_min, y_max = -10, 10
-z_min, z_max = -3, 3
+z_min, z_max = -10, 10
 
 left = openmc.XPlane(x_min)
 right = openmc.XPlane(x_max)
